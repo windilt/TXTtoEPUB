@@ -12,7 +12,7 @@ Major change
 
 
 Usage method
-1, download 
+1, download
 2, pip install ebooklib typing Pillow
 3, put all TXT file in same folder of main.py
 4, python ./main.py
