@@ -11,7 +11,7 @@ Major change
 一个很简单的python程序，可以把当前目录下的所有TXT文件转成带目录的EPUB。是根据ljpkok / TXT_To_EPUB 修改而来，大部分代码是ChatGPT 4o mini生成的
 
 
-#Usage method
+# Usage method
 
 1, download
 
@@ -21,7 +21,7 @@ Major change
 
 4, python ./main.py
 
-#使用方法
+# 使用方法
 
 1, 下载main.py
 
@@ -31,5 +31,9 @@ Major change
 
 4, python ./main.py
 
+# Tips
+
+可以使用sendtokindle服务，把带目录的epub文件转换成带目录的azw3文件，在kindle查看
+https://www.amazon.com/sendtokindle
 
 
